@@ -22,3 +22,32 @@ BigMoon DICOM Viewer 是一款综合性的医学影像阅片器。
 - 支持使用DICOM图像本地数据库，可以导入、导出或打开DICOM图像；
 - 支持截屏并保存到剪贴板，或本地图像文件，或本地pdf文件；
 - 支持中英文语言切换；
+
+# 功能截图
+
+## 基础功能
+![基础功能](images/screenshots_cn/basic.png)
+
+## MPR功能
+![MPR功能](images/screenshots_cn/mpr.png)
+
+## 3D MPR功能
+![3D MPR功能](images/screenshots_cn/3dmpr.png)
+
+## 3D VR功能
+![3D VR功能](images/screenshots_cn/3dvr.png)
+
+## 3D模型功能
+![3D模型功能](images/screenshots_cn/3dmodels.png)
+
+## 伪彩色功能
+![伪彩色功能](images/screenshots_cn/pseudo.png)
+
+## DICOM Tag功能
+![DICOM Tag功能](images/screenshots_cn/tag.png)
+
+## DICOM Tag比较功能
+![DICOM Tag比较功能](images/screenshots_cn/tagcmp.png)
+
+## DICOM Tag检查功能
+![DICOM Tag检查功能](images/screenshots_cn/taginspect.png)

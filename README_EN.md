@@ -22,3 +22,32 @@ Supporting the following features:
 - Supports a local DICOM image database, allowing importing, exporting, or opening DICOM images.
 - Supports screenshot capture and saving to the clipboard, local image files, or local PDF files.
 - Supports Chinese/English language switching.
+
+# Feature Screenshots
+
+## Basic Features
+![Basic Features](images/screenshots_en/basic.png)
+
+## MPR Features
+![MPR Features](images/screenshots_en/mpr.png)
+
+## 3D MPR Features
+![3D MPR Features](images/screenshots_en/3dmpr.png)
+
+## 3D VR Features
+![3D VR Features](images/screenshots_en/3dvr.png)
+
+## 3D Model Features
+![3D Model Features](images/screenshots_en/3dmodels.png)
+
+## Pseudo-color Features
+![Pseudo-color Features](images/screenshots_en/pseudo.png)
+
+## DICOM Tag Features
+![DICOM Tag Features](images/screenshots_en/tag.png)
+
+## DICOM Tag Comparison Features
+![DICOM Tag Comparison Features](images/screenshots_en/tagcmp.png)
+
+## DICOM Tag Inspection Features
+![DICOM Tag Inspection Features](images/screenshots_en/taginspect.png)
