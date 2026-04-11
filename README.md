@@ -5,6 +5,11 @@ BigMoon DICOM Viewer 是一款综合性的医学影像阅片器。
 3. 具备高级 3D 可视化（MPR、MIP、VR）功能，支持测量和标注；
 4. 支持PACS 查询/检索以及本地数据库管理功能。
 
+# 下载链接
+- Microsoft Store 深链接: ms-windows-store://pdp/?productid=9N2NS0DNN2SQ
+- Microsoft Store 网页链接: https://apps.microsoft.com/detail/9N2NS0DNN2SQ
+- EXE安装包下载：见页面右侧Releases链接
+
 # 支持的特征
 支持以下功能：
 - 支持常见模态（modality）、常见传输语法（Transfer Syntax）的DICOM图像；
