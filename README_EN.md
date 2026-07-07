@@ -30,6 +30,9 @@ Supporting the following features:
 
 # Feature Screenshots
 
+## 3D Model Features
+![3D Model Features](images/screenshots_en/3dmodels.png)
+
 ## Basic Features
 ![Basic Features](images/screenshots_en/basic.png)
 
@@ -41,9 +44,6 @@ Supporting the following features:
 
 ## 3D VR Features
 ![3D VR Features](images/screenshots_en/3dvr.png)
-
-## 3D Model Features
-![3D Model Features](images/screenshots_en/3dmodels.png)
 
 ## Pseudo-color Features
 ![Pseudo-color Features](images/screenshots_en/pseudo.png)

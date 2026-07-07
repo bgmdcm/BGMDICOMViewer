@@ -3,12 +3,12 @@
     "name": "BGMDICOMViewer",
     "os": "windows",
     "arch": "x64",
-    "version": "1.0.1",
-    "fileSize": 63161827,
-    "buildDate": "20250303T052433",
-    "downloadUrl": "https://github.com/bgmdcm/BGMDICOMViewer/releases/download/0.9.0/BGMDICOMViewer-0.9.0-win64.exe",
-    "md5": "f5dcc9a7b0339f56ae29a7870c73e220",
-    "sha512": "979d96d781c9db5e33cd0da4d138792921f9876b268639a0b237868da318e1a04c4f1fd7a712bd34d8f04fbbf5dae451580e1bcf8d7d873d1f859ba7c5ac4cca",
-    "changeLog": "BGMDICOMViewer: 本版本升级了以下功能：\n1. 新增功能阈值分割；\n2. 新增功能自动配准和手动配准；\n3. 修复了大量bug；\n4. 优化了图像加载效率；"
+    "version": "1.0.0",
+    "fileSize": 60181305,
+    "buildDate": "20260707T210759",
+    "downloadUrl": "https://github.com/bgmdcm/BGMDICOMViewer/releases/download/v1.0.0/BGMDICOMViewer-1.0.0-win64.exe",
+    "md5": "eb9bbc06c8af490ac798c804d61797b3",
+    "sha512": "2c781f4a18a6df1450dd264492749d1babbd2ba8e2f0bd76e9156c1149de20153871eda917eb633f8b8fc9c23e19e38800956d4a4fe13cca4da1cf538efe4973",
+    "changeLog": "BGMDICOMViewer: 本版本升级了以下功能：\n1. 新增模型面板，可查看模型体积，调整模型颜色、透明度以及可见度；\n2. 修复obj/bmp/png/pnm等格式文件加载问题，移除hdr/minc等格式的支持；\n3. 优化图像/模型等数据的加载方式；\n4. 优化图像增强功能；\n5. 优化PACS下载相关的网络功能；\n6. 重新设计本地数据库表；\n7. 增加键盘方向键控制图像翻页，以及面渲染/体渲染旋转；\n7. 优化软件升级功能；\n8. 其它bug修复；"
   }
 ]
