@@ -6,8 +6,7 @@ BigMoon DICOM Viewer 是一款综合性的医学影像阅片器。
 4. 支持PACS 查询/检索以及本地数据库管理功能。
 
 # 下载链接
-- Microsoft Store 深链接: <a href="ms-windows-store://pdp/?productid=9N2NS0DNN2SQ">在Microsoft Store中打开</a>
-- Microsoft Store 网页链接: <https://apps.microsoft.com/detail/9N2NS0DNN2SQ>
+[![Download from Microsoft Store](https://get.microsoft.com/images/zh-cn%20light.svg)](https://apps.microsoft.com/detail/9N2NS0DNN2SQ)
 - EXE安装包下载：见页面右侧Releases链接
 
 # 支持的特征

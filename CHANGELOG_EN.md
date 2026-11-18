@@ -1,6 +1,10 @@
 # Changelog
 
 
+## 1.1.0 (2026/11/17)
+1. Fix some bugs；
+
+
 ## 1.0.0 (2026/07/05)
 1. Added model panel, allowing users to view model volume, adjust model color, transparency, and visibility;
 2. Fixed loading issues for obj/bmp/png/pnm format files, removed support for hdr/minc formats;

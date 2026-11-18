@@ -6,8 +6,7 @@ BigMoon DICOM Viewer is a comprehensive medical imaging viewer.
 4. Support for PACS query/retrieval and local database management functions.
 
 # Download Links
-- Microsoft Store Deep Link: <a href="ms-windows-store://pdp/?productid=9N2NS0DNN2SQ">Open in Microsoft Store</a>
-- Microsoft Store Web Link: <https://apps.microsoft.com/detail/9N2NS0DNN2SQ>
+[![Download from Microsoft Store](https://get.microsoft.com/images/en-us%20light.svg)](https://apps.microsoft.com/detail/9N2NS0DNN2SQ)
 - EXE Installer Download: See the Releases link on the right side of the page
 
 # Supported features
